@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:16a34a,100:22c55e&height=200&section=header&text=Youssef%20Hesham&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20Flutter%20Developer%20%7C%20AI%20Enthusiast&descAlignY=55&descSize=18"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:16a34a,100:22c55e&height=200&section=header&text=Youssef%20Hesham&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20Flutter%20Developer%20%7C%20Mobile%20%26%20Backend%20Developer&descAlignY=55&descSize=18"/>
 
 </div>
 
@@ -32,13 +32,15 @@
 
 <div align="center">
 
-| | |
-|:---|:---|
-| 🎓 | Software Engineering student @ **AASTMT South Valley** — GPA **3.52 / 4.0** |
-| 📍 | Based in **Qena, Egypt** |
-| 🔨 | Currently building **KemetGuide 🏛️** — AI Tourism App for Luxor |
-| 💡 | Passionate about **Mobile Dev · AI & Deep Learning · Clean Architecture** |
-| 🪄 | Fun fact: I build apps that blend ancient history with modern AI |
+```
+╔══════════════════════════════════════════════════════════════╗
+║  🎓  Software Engineering @ AASTMT South Valley              ║
+║  📍  Qena, Egypt                    GPA: 3.52 / 4.0 ⭐       ║
+╠══════════════════════════════════════════════════════════════╣
+║  💙  Mobile Development    🤖  AI & Deep Learning            ║
+║  🏗️  Clean Architecture    🌐  Backend with Node.js          ║
+╚══════════════════════════════════════════════════════════════╝
+```
 
 </div>
 
