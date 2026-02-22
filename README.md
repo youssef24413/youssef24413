@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:16a34a,100:22c55e&amp;height=200&amp;section=header&amp;text=Youssef%20Hesham&amp;fontSize=50&amp;fontColor=ffffff&amp;animation=fadeIn&amp;fontAlignY=38&amp;desc=Software%20Engineer%20%7C%20Flutter%20Developer%20%7C%20Mobile%20%26%20Backend%20Developer&amp;descAlignY=55&amp;descSize=18"/>
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=22C55E&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+Youssef+%F0%9F%91%8B;Flutter+Developer;Mobile+%26+Backend+Engineer;AI+Enthusiast+%F0%9F%A4%96)
 
 </div>
 
@@ -8,11 +8,10 @@
 
 <div align="center">
 
-### 👋 Hey there! I'm Youssef
-
-🎓 **Software Engineering** student @ AASTMT, South Valley — GPA **3.52 / 4.0**  
-📍 Qena, Egypt &nbsp;|&nbsp; 📧 youseyoussef789@gmail.com  
-💼 Open to opportunities in **Flutter Development** & **AI-powered Apps**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Youssef%20Hesham-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/youssef-hesham-sayed/)
+[![GitHub](https://img.shields.io/badge/GitHub-youssef24413-181717?style=for-the-badge&logo=github)](https://github.com/youssef24413)
+[![Email](https://img.shields.io/badge/Email-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:youseyoussef789@gmail.com)
+[![Phone](https://img.shields.io/badge/WhatsApp-%2B201005425852-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/201005425852)
 
 </div>
 
@@ -35,7 +34,7 @@
 ```
 ╔══════════════════════════════════════════════════════════════╗
 ║  🎓  Software Engineering @ AASTMT South Valley              ║
-║  📍  Qena, Egypt                    GPA: 3.52 / 4.0 ⭐       ║
+║  📍  Qena, Egypt                    GPA: 3.52 / 4.0  ⭐      ║
 ╠══════════════════════════════════════════════════════════════╣
 ║  💙  Mobile Development    🤖  AI & Deep Learning            ║
 ║  🏗️  Clean Architecture    🌐  Backend with Node.js          ║
@@ -95,10 +94,10 @@
 
 | Project | Description | Tech |
 |:---:|:---|:---:|
-| 🏛️ **KemetGuide** | AI-powered tourism app for Luxor — offline statue recognition, Gemini chatbot, 360° virtual tours | Flutter · TFLite · Gemini API |
-| 🧵 **Fabric Management System** | Full-stack platform with user app, delivery app & admin dashboard | Flutter · Firebase · JS |
-| 🌱 **MyPlant Care** | Plant disease detection + recommendation system using CNN | Flutter · Flask · CNN |
-| 🚗 **Car Wash Booking App** | Location-based booking with scheduling & push notifications | Flutter · Firebase · FCM |
+| 🏛️ **KemetGuide** | AI tourism app for Luxor — offline statue recognition, Gemini chatbot, 360° virtual tours | Flutter · TFLite · Gemini |
+| 🧵 **Fabric Management** | Full-stack platform with user app, delivery app and admin dashboard | Flutter · Firebase · JS |
+| 🌱 **MyPlant Care** | Plant disease detection and recommendation system using CNN | Flutter · Flask · CNN |
+| 🚗 **Car Wash Booking** | Location-based booking with scheduling and push notifications | Flutter · Firebase · FCM |
 | 🔐 **Cryptography App** | Desktop app supporting 6 encryption/decryption algorithms | Python · Tkinter |
 
 </div>
@@ -122,7 +121,7 @@
 
 ---
 
-## 🎓 Certifications & Achievements
+## 🎓 Certifications
 
 | 🏅 | Certificate | Details |
 |:---:|:---|:---|
@@ -135,42 +134,18 @@
 
 ## 💼 Experience
 
-<details>
-<summary><b>🏦 Agricultural Bank of Egypt — IT Bank Sector Intern</b> (Aug–Sept 2025)</summary>
+**🏦 Agricultural Bank of Egypt — IT Intern** *(Aug – Sept 2025, Qena)*
 
-- Completed a one-month on-site internship in the IT department
-- Gained practical experience in banking systems & IT infrastructure
-- Learned about database management, network security, and internal workflows
-- Assisted in troubleshooting and system maintenance
+Gained hands-on experience in banking IT systems, database management, network security, and daily technical operations.
 
-</details>
+**🏦 CIB Egypt Bank — Digital Transformation Intern** *(Sept 2024, Online)*
 
-<details>
-<summary><b>🏦 CIB Egypt Bank — Digital Transformation & Data Literacy Intern</b> (Sept 2024, Online)</summary>
-
-- Gained insights into digital transformation and AI applications in banking
-- Acquired knowledge on cybersecurity risks and mitigation strategies
-- Explored data-driven decision making in financial services
-
-</details>
-
----
-
-## 📬 Connect with Me
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Youssef%20Hesham-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/youssef-hesham-sayed/)
-[![GitHub](https://img.shields.io/badge/GitHub-youssef24413-181717?style=for-the-badge&logo=github)](https://github.com/youssef24413)
-[![Email](https://img.shields.io/badge/Email-youseyoussef789@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:youseyoussef789@gmail.com)
-[![Phone](https://img.shields.io/badge/Phone-+201005425852-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+201005425852)
-
-</div>
+Explored digital transformation, AI in banking, cybersecurity risks, and data-driven decision making in financial services.
 
 ---
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:16a34a,100:22c55e&amp;height=120&amp;section=footer"/>
+*Made with 💚 — Youssef Hesham*
 
 </div>
