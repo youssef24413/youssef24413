@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:16a34a,100:22c55e&height=200&section=header&text=Youssef%20Hesham&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20Flutter%20Developer%20%7C%20Mobile%20%26%20Backend%20Developer&descAlignY=55&descSize=18"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:16a34a,100:22c55e&amp;height=200&amp;section=header&amp;text=Youssef%20Hesham&amp;fontSize=50&amp;fontColor=ffffff&amp;animation=fadeIn&amp;fontAlignY=38&amp;desc=Software%20Engineer%20%7C%20Flutter%20Developer%20%7C%20Mobile%20%26%20Backend%20Developer&amp;descAlignY=55&amp;descSize=18"/>
 
 </div>
 
@@ -171,6 +171,6 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:16a34a,100:22c55e&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:16a34a,100:22c55e&amp;height=120&amp;section=footer"/>
 
 </div>
