@@ -30,26 +30,17 @@
 
 ## 🚀 About Me
 
-```dart
-class YoussefHesham {
-  final String role     = "Flutter Developer & Software Engineer";
-  final String location = "Qena, Egypt 🇪🇬";
-  final double gpa      = 3.52;
+<div align="center">
 
-  final List<String> currentlyBuilding = [
-    "KemetGuide 🏛️ — AI Tourism App for Luxor",
-  ];
+| | |
+|:---|:---|
+| 🎓 | Software Engineering student @ **AASTMT South Valley** — GPA **3.52 / 4.0** |
+| 📍 | Based in **Qena, Egypt** |
+| 🔨 | Currently building **KemetGuide 🏛️** — AI Tourism App for Luxor |
+| 💡 | Passionate about **Mobile Dev · AI & Deep Learning · Clean Architecture** |
+| 🪄 | Fun fact: I build apps that blend ancient history with modern AI |
 
-  final List<String> passions = [
-    "Mobile Development 📱",
-    "AI & Deep Learning 🤖",
-    "Clean Architecture 🏗️",
-    "Open Source 🌍",
-  ];
-
-  String get funFact => "I build apps that blend ancient history with modern AI 🪄";
-}
-```
+</div>
 
 ---
 
@@ -77,6 +68,8 @@ class YoussefHesham {
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Svelte](https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ### 🗄️ Databases
@@ -168,6 +161,7 @@ class YoussefHesham {
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Youssef%20Hesham-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/youssef-hesham-sayed/)
 [![GitHub](https://img.shields.io/badge/GitHub-youssef24413-181717?style=for-the-badge&logo=github)](https://github.com/youssef24413)
 [![Email](https://img.shields.io/badge/Email-youseyoussef789@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:youseyoussef789@gmail.com)
+[![Phone](https://img.shields.io/badge/Phone-+201005425852-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+201005425852)
 
 </div>
 
